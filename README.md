@@ -1,2 +1,2 @@
-# datagsm-openapi-sdk-go
-DataGSM OpenAPI SDK for Go
+# DataGSM OpenAPI SDK for Go
+
