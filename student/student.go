@@ -2,8 +2,8 @@
 package student
 
 import (
-	"github.com/themoment-team/datagsm-openapi-sdk-go/club"
-	"github.com/themoment-team/datagsm-openapi-sdk-go/types"
+	"github.com/jihoonwjj/datagsm-openapi-sdk-go/club"
+	"github.com/jihoonwjj/datagsm-openapi-sdk-go/types"
 )
 
 // StudentRole은 학생의 역할을 나타냅니다.

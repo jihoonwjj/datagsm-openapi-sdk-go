@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	datagsm "github.com/themoment-team/datagsm-openapi-sdk-go"
+	datagsm "github.com/jihoonwjj/datagsm-openapi-sdk-go"
 )
 
 func TestNEIS_Meals(t *testing.T) {

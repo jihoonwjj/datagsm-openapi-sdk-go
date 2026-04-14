@@ -4,10 +4,10 @@ package datagsm
 // 그대로 참조할 수 있도록 재노출합니다.
 
 import (
-	"github.com/themoment-team/datagsm-openapi-sdk-go/club"
-	"github.com/themoment-team/datagsm-openapi-sdk-go/neis"
-	"github.com/themoment-team/datagsm-openapi-sdk-go/student"
-	"github.com/themoment-team/datagsm-openapi-sdk-go/types"
+	"github.com/jihoonwjj/datagsm-openapi-sdk-go/club"
+	"github.com/jihoonwjj/datagsm-openapi-sdk-go/neis"
+	"github.com/jihoonwjj/datagsm-openapi-sdk-go/student"
+	"github.com/jihoonwjj/datagsm-openapi-sdk-go/types"
 )
 
 // ── types 패키지 상수 ────────────────────────────────────────────────────────

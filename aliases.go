@@ -5,11 +5,11 @@ package datagsm
 // 사용 방식이 그대로 유지됩니다.
 
 import (
-	"github.com/themoment-team/datagsm-openapi-sdk-go/club"
-	"github.com/themoment-team/datagsm-openapi-sdk-go/neis"
-	"github.com/themoment-team/datagsm-openapi-sdk-go/project"
-	"github.com/themoment-team/datagsm-openapi-sdk-go/student"
-	"github.com/themoment-team/datagsm-openapi-sdk-go/types"
+	"github.com/jihoonwjj/datagsm-openapi-sdk-go/club"
+	"github.com/jihoonwjj/datagsm-openapi-sdk-go/neis"
+	"github.com/jihoonwjj/datagsm-openapi-sdk-go/project"
+	"github.com/jihoonwjj/datagsm-openapi-sdk-go/student"
+	"github.com/jihoonwjj/datagsm-openapi-sdk-go/types"
 )
 
 // ── 공유 원시 타입 ────────────────────────────────────────────────────────────

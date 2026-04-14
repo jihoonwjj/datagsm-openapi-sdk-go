@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/themoment-team/datagsm-openapi-sdk-go/internal/apierror"
+	"github.com/jihoonwjj/datagsm-openapi-sdk-go/internal/apierror"
 )
 
 // apiResponse는 DataGSM OpenAPI의 공통 응답 래퍼입니다.

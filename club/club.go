@@ -1,7 +1,7 @@
 // Package club은 DataGSM 동아리 도메인 타입과 API를 제공합니다.
 package club
 
-import "github.com/themoment-team/datagsm-openapi-sdk-go/types"
+import "github.com/jihoonwjj/datagsm-openapi-sdk-go/types"
 
 // ClubType은 동아리 유형을 나타냅니다.
 type ClubType string

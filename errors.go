@@ -1,6 +1,6 @@
 package datagsm
 
-import "github.com/themoment-team/datagsm-openapi-sdk-go/internal/apierror"
+import "github.com/jihoonwjj/datagsm-openapi-sdk-go/internal/apierror"
 
 // APIError는 DataGSM OpenAPI 서버에서 반환된 HTTP 오류를 나타냅니다.
 // errors.As를 사용하여 상태 코드를 확인하세요.

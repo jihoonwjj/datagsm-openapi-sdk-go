@@ -16,10 +16,10 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/themoment-team/datagsm-openapi-sdk-go/club"
-	"github.com/themoment-team/datagsm-openapi-sdk-go/neis"
-	"github.com/themoment-team/datagsm-openapi-sdk-go/project"
-	"github.com/themoment-team/datagsm-openapi-sdk-go/student"
+	"github.com/jihoonwjj/datagsm-openapi-sdk-go/club"
+	"github.com/jihoonwjj/datagsm-openapi-sdk-go/neis"
+	"github.com/jihoonwjj/datagsm-openapi-sdk-go/project"
+	"github.com/jihoonwjj/datagsm-openapi-sdk-go/student"
 )
 
 const defaultBaseURL = "https://openapi.datagsm.kr"

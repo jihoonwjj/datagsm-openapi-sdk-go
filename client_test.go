@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	datagsm "github.com/themoment-team/datagsm-openapi-sdk-go"
+	datagsm "github.com/jihoonwjj/datagsm-openapi-sdk-go"
 )
 
 func TestNewClient_EmptyAPIKey(t *testing.T) {

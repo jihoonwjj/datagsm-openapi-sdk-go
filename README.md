@@ -1,6 +1,6 @@
 # DataGSM OpenAPI SDK for Go
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/themoment-team/datagsm-openapi-sdk-go.svg)](https://pkg.go.dev/github.com/themoment-team/datagsm-openapi-sdk-go)
+[![Go Reference](https://pkg.go.dev/badge/github.com/jihoonwjj/datagsm-openapi-sdk-go.svg)](https://pkg.go.dev/github.com/jihoonwjj/datagsm-openapi-sdk-go)
 
 [DataGSM OpenAPI](https://docs.datagsm.kr/)를 위한 공식 Go SDK입니다.  
 학생·동아리·프로젝트·급식/학사 데이터를 Go 코드에서 간편하게 조회할 수 있습니다.
@@ -13,7 +13,7 @@
 ## 설치
 
 ```bash
-go get github.com/themoment-team/datagsm-openapi-sdk-go
+go get github.com/jihoonwjj/datagsm-openapi-sdk-go
 ```
 
 ## 빠른 시작
@@ -26,7 +26,7 @@ import (
     "fmt"
     "log"
 
-    datagsm "github.com/themoment-team/datagsm-openapi-sdk-go"
+    datagsm "github.com/jihoonwjj/datagsm-openapi-sdk-go"
 )
 
 func main() {

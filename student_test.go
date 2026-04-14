@@ -8,7 +8,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	datagsm "github.com/themoment-team/datagsm-openapi-sdk-go"
+	datagsm "github.com/jihoonwjj/datagsm-openapi-sdk-go"
 )
 
 func newTestServer(t *testing.T, handler http.Handler) (*httptest.Server, *datagsm.DataGsmClient) {

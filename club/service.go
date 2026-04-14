@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/themoment-team/datagsm-openapi-sdk-go/internal/transport"
-	"github.com/themoment-team/datagsm-openapi-sdk-go/types"
+	"github.com/jihoonwjj/datagsm-openapi-sdk-go/internal/transport"
+	"github.com/jihoonwjj/datagsm-openapi-sdk-go/types"
 )
 
 // ClubService는 동아리 관련 API를 정의하는 인터페이스입니다.

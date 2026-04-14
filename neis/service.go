@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/themoment-team/datagsm-openapi-sdk-go/internal/transport"
+	"github.com/jihoonwjj/datagsm-openapi-sdk-go/internal/transport"
 )
 
 const dateLayout = "2006-01-02"

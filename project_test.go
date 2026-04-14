@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"testing"
 
-	datagsm "github.com/themoment-team/datagsm-openapi-sdk-go"
+	datagsm "github.com/jihoonwjj/datagsm-openapi-sdk-go"
 )
 
 func TestProjects_List(t *testing.T) {
