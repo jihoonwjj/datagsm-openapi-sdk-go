@@ -35,7 +35,7 @@ func main() {
 	fmt.Println("=== 학생 목록 (1학년, 소프트웨어개발과) ===")
 	students, err := client.Students().List(ctx, datagsm.StudentQuery{
 		Grade: datagsm.Ptr(1),
-		Major: (*datagsm.Major)(datagsm.Ptr(string(datagsm.MajorSWDevelopment))),
+		Major: datagsm.Ptr(datagsm.MajorSWDevelopment),
 		Page:  0,
 		Size:  5,
 	})
@@ -51,8 +51,8 @@ func main() {
 	// ─── 동아리 목록 조회 ──────────────────────────────────────────
 	fmt.Println("\n=== 활동 중인 전공동아리 목록 ===")
 	clubs, err := client.Clubs().List(ctx, datagsm.ClubQuery{
-		ClubType: (*datagsm.ClubType)(datagsm.Ptr(string(datagsm.ClubTypeMajor))),
-		Status:   (*datagsm.ClubStatus)(datagsm.Ptr(string(datagsm.ClubStatusActive))),
+		ClubType: datagsm.Ptr(datagsm.ClubTypeMajor),
+		Status:   datagsm.Ptr(datagsm.ClubStatusActive),
 		Page:     0,
 		Size:     10,
 	})
